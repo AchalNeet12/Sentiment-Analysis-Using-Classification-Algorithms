@@ -1,10 +1,14 @@
 # Sentiment Analysis
 ---
 ## 📝 Project Description:
-This project focuses on building a sentiment analysis application that can predict the sentiment of restaurant reviews as either positive or negative. The user can input a restaurant review, select one of several machine learning models for sentiment classification, and receive a prediction of whether the sentiment is positive or negative. The application is built using Streamlit for the frontend and various machine learning algorithms for the backend.
+ - This project focuses on building a sentiment analysis application that can predict the sentiment of restaurant reviews as either positive or negative. The user can input a restaurant 
+   review, select one of several machine learning models for sentiment classification, and receive a prediction of whether the sentiment is positive or negative. The application is 
+   built using Streamlit for the frontend and various machine learning algorithms for the backend.
 ---
 ## 📜 Overview:
-The goal of this project is to create a web-based sentiment analysis tool that allows users to input restaurant reviews and get predictions on whether the reviews are positive or negative. The tool is powered by several machine learning models, including popular algorithms like Logistic Regression, K-Nearest Neighbors, Random Forest, SVM, XGBoost, and others. The best-performing model for sentiment classification is chosen based on accuracy metrics and confusion matrices.
+ - The goal of this project is to create a web-based sentiment analysis tool that allows users to input restaurant reviews and get predictions on whether the reviews are positive or 
+   negative. The tool is powered by several machine learning models, including popular algorithms like Logistic Regression, K-Nearest Neighbors, Random Forest, SVM, XGBoost, and others. 
+   The best-performing model for sentiment classification is chosen based on accuracy metrics and confusion matrices.
 ---
 ## 📦 Dataset:
  - **Dataset Name:** Restaurant Reviews Dataset
@@ -26,41 +30,49 @@ The goal of this project is to create a web-based sentiment analysis tool that a
 ## ⚙ Algorithms Used:
  - **Logistic Regression:** A linear model for binary classification.
    Accuracy: 74.5
+   
    Confusion Matrix:[[78, 19]
                      [32, 71]]
 
  - **K-Nearest Neighbors (KNN):** A non-parametric method used for classification based on distance to the nearest neighbors.
     Accuracy: 72
+   
     Confusion Matrix:[[73, 24]
                      [32, 71]]
 
  - **Random Forest:** An ensemble learning method using multiple decision trees.
     Accuracy: 69
+   
     Confusion Matrix:[[91, 6]
                      [56, 47]]
 
  - **Decision Tree:** A model that splits data based on features to predict the outcome.
     Accuracy: 66.5
+   
     Confusion Matrix:[[73, 24]
                      [46, 60]]
 
  - **Support Vector Machine (SVM):** A classification algorithm that finds a hyperplane separating the classes with the largest margin.
     Accuracy: 72.5
+   
     Confusion Matrix:[[78, 19]
                      [36, 67]]
 
  - **XGBoost:** A gradient boosting algorithm that builds trees in a sequential manner to improve predictive accuracy.
     Accuracy: 66.5
+   
     Confusion Matrix:[[80, 17]
                      [50, 53]]
 
  - **LightGBM:** A gradient boosting method that is optimized for large datasets.
     Accuracy: 60.5
+   
     Confusion Matrix:[[79, 18]
                      [61, 42]]
 
  - **Naive Bayes:** A probabilistic classifier based on Bayes’ theorem, commonly used for text classification.
     Accuracy: 76
+   
     Confusion Matrix:[[72, 25]
                      [23, 80]]
 ---
