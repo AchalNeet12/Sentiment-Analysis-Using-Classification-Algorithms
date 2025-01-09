@@ -30,8 +30,8 @@
 ## ⚙ Algorithms Used:
  - **Logistic Regression:** A linear model for binary classification.
    -  Accuracy: 74.5
-   - Confusion Matrix:[78, 19]
-                      [32, 71]
+   - Confusion Matrix:[78, 19
+                      32, 71]
 
  - **K-Nearest Neighbors (KNN):** A non-parametric method used for classification based on distance to the nearest neighbors.
     Accuracy: 72
