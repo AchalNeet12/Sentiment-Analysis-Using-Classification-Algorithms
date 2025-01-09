@@ -30,52 +30,60 @@
 ## ⚙ Algorithms Used:
  - **Logistic Regression:** A linear model for binary classification.
    -  Accuracy: 74.5
-   - Confusion Matrix:
+   -  Confusion Matrix:
      
                       [[78, 19]
      
                       [32, 71]]
 
  - **K-Nearest Neighbors (KNN):** A non-parametric method used for classification based on distance to the nearest neighbors.
-    Accuracy: 72
-   
-    Confusion Matrix:[[73, 24]
+   -  Accuracy: 72
+   -  Confusion Matrix:
+     
+                     [[73, 24]
+      
                      [32, 71]]
 
  - **Random Forest:** An ensemble learning method using multiple decision trees.
-    Accuracy: 69
-   
-    Confusion Matrix:[[91, 6]
+    -  Accuracy: 69
+    -  Confusion Matrix:
+
+                     [91, 6]
                      [56, 47]]
 
  - **Decision Tree:** A model that splits data based on features to predict the outcome.
-    Accuracy: 66.5
-   
-    Confusion Matrix:[[73, 24]
+    -  Accuracy: 66.5
+    -  Confusion Matrix:
+
+                     [[73, 24]
                      [46, 60]]
 
  - **Support Vector Machine (SVM):** A classification algorithm that finds a hyperplane separating the classes with the largest margin.
-    Accuracy: 72.5
-   
-    Confusion Matrix:[[78, 19]
+    -  Accuracy: 72.5
+    -  Confusion Matrix:
+
+                     [[78, 19]
                      [36, 67]]
 
  - **XGBoost:** A gradient boosting algorithm that builds trees in a sequential manner to improve predictive accuracy.
-    Accuracy: 66.5
-   
-    Confusion Matrix:[[80, 17]
+    -  Accuracy: 66.5
+    -  Confusion Matrix:
+    
+                     [[80, 17]
                      [50, 53]]
 
  - **LightGBM:** A gradient boosting method that is optimized for large datasets.
-    Accuracy: 60.5
-   
-    Confusion Matrix:[[79, 18]
+    -  Accuracy: 60.5
+    -  Confusion Matrix:
+    
+                     [[79, 18]
                      [61, 42]]
 
  - **Naive Bayes:** A probabilistic classifier based on Bayes’ theorem, commonly used for text classification.
-    Accuracy: 76
-   
-    Confusion Matrix:[[72, 25]
+    -  Accuracy: 76
+    -  Confusion Matrix:
+    
+                     [[72, 25]
                      [23, 80]]
 ---
 ## 🔍 Data Preprocessing:
