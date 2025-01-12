@@ -214,8 +214,8 @@
      - Class 0: 0.75
      - Class 1: 0.77
        
- **Summary:** Naive Bayes provides a strong balance between precision and recall for both classes, making it another good candidate, 
- with performance similar to Logistic Regression.    
+ - **Summary:** Naive Bayes provides a strong balance between precision and recall for both classes, making it another good candidate, 
+   with performance similar to Logistic Regression.    
 ---
 ## 🔍 Data Preprocessing:
   The data preprocessing pipeline consists of several key steps to prepare the text data for machine learning models:
