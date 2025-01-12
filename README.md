@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Sentiment Analysis Using Classification Algorithms
 ---
 ## 📝 Project Description:
  - This project focuses on building a sentiment analysis application that can predict the sentiment of restaurant reviews as either positive or negative. The user can input a restaurant 
