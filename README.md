@@ -196,7 +196,7 @@
 - **Naive Bayes:** A probabilistic classifier based on Bayes’ theorem, commonly used for text classification.
    -  Cross-validated Accuracy: 0.7625
    -  Test Accuracy: 0.76
-   -  onfusion Matrix:
+   -  Confusion Matrix:
       - True Negatives (TN): 72
       - False Positives (FP): 25
       - False Negatives (FN): 23
@@ -214,7 +214,8 @@
      - Class 0: 0.75
      - Class 1: 0.77
        
-**Summary:** Naive Bayes provides a strong balance between precision and recall for both classes, making it another good candidate, with performance similar to Logistic Regression.    
+ **Summary:** Naive Bayes provides a strong balance between precision and recall for both classes, making it another good candidate, 
+ with performance similar to Logistic Regression.    
 ---
 ## 🔍 Data Preprocessing:
   The data preprocessing pipeline consists of several key steps to prepare the text data for machine learning models:
